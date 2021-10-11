@@ -1,0 +1,25 @@
+{
+  "instant_games": {
+      "platform_version": "RICH_GAMEPLAY",
+      "orientation": "LANDSCAPE",
+      "override_web_orientation": "LANDSCAPE", 
+      "navigation_menu_version": "NAV_FLOATING", 
+
+
+      "custom_update_templates": {
+
+        "start_game":{
+          "example": "Player is challenging you to a RPS match"
+        },
+        "play_turn": {
+          "example": "Player just played their move. It's your turn!"
+        }, 
+        "first_place": {
+          "example": "Player just won Game!"
+        }
+
+
+      }
+  }
+}
+
